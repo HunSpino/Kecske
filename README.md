@@ -1,0 +1,2 @@
+# Kecske
+Órai mobil gyakorlat
